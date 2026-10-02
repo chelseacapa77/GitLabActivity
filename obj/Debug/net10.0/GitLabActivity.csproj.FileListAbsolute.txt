@@ -1,0 +1,14 @@
+C:\Users\CHELSEA\OneDrive\Desktop\GitLabActivity\bin\Debug\net10.0\GitLabActivity.exe
+C:\Users\CHELSEA\OneDrive\Desktop\GitLabActivity\bin\Debug\net10.0\GitLabActivity.deps.json
+C:\Users\CHELSEA\OneDrive\Desktop\GitLabActivity\bin\Debug\net10.0\GitLabActivity.runtimeconfig.json
+C:\Users\CHELSEA\OneDrive\Desktop\GitLabActivity\bin\Debug\net10.0\GitLabActivity.dll
+C:\Users\CHELSEA\OneDrive\Desktop\GitLabActivity\bin\Debug\net10.0\GitLabActivity.pdb
+C:\Users\CHELSEA\OneDrive\Desktop\GitLabActivity\obj\Debug\net10.0\GitLabActivity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CHELSEA\OneDrive\Desktop\GitLabActivity\obj\Debug\net10.0\GitLabActivity.AssemblyInfoInputs.cache
+C:\Users\CHELSEA\OneDrive\Desktop\GitLabActivity\obj\Debug\net10.0\GitLabActivity.AssemblyInfo.cs
+C:\Users\CHELSEA\OneDrive\Desktop\GitLabActivity\obj\Debug\net10.0\GitLabActivity.csproj.CoreCompileInputs.cache
+C:\Users\CHELSEA\OneDrive\Desktop\GitLabActivity\obj\Debug\net10.0\GitLabActivity.dll
+C:\Users\CHELSEA\OneDrive\Desktop\GitLabActivity\obj\Debug\net10.0\refint\GitLabActivity.dll
+C:\Users\CHELSEA\OneDrive\Desktop\GitLabActivity\obj\Debug\net10.0\GitLabActivity.pdb
+C:\Users\CHELSEA\OneDrive\Desktop\GitLabActivity\obj\Debug\net10.0\GitLabActivity.genruntimeconfig.cache
+C:\Users\CHELSEA\OneDrive\Desktop\GitLabActivity\obj\Debug\net10.0\ref\GitLabActivity.dll
